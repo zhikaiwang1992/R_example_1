@@ -7,6 +7,11 @@ print(z)
 print(y)
 print(d)
 
+## simple plot point figure
+a = c(1,2,3,4,5)
+b = a^2
+plot(a,b)
+
 ## 'for' loops
 for (i in 1:10) {
 print (i) 
